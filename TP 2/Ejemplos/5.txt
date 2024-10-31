@@ -1,0 +1,2 @@
+# Los valores de las monedas de la fila se muestran tal cual su orden correspondiente, separados por ;
+96;594;437;674;950

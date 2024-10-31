@@ -1,0 +1,4 @@
+__pycache__/
+resultados.csv
+*.png
+*_resultado.txt

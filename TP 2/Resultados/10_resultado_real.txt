@@ -1,0 +1,4 @@
+10.txt
+Sophia debe agarrar la ultima (145); Mateo agarra la primera (520); Sophia debe agarrar la primera (781); Mateo agarra la primera (334); Sophia debe agarrar la primera (568); Mateo agarra la primera (706); Sophia debe agarrar la primera (362); Mateo agarra la primera (201); Sophia debe agarrar la primera (482); Mateo agarra la ultima (19)
+Ganancia Sophia: 2338
+Ganancia Mateo: 1780
