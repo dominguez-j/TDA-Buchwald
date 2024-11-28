@@ -1,0 +1,29 @@
+# El archivo tiene n filas con las demandas de las filas, luego m filas con las demandas de las columnas
+# y luego k filas con el largo de los barcos, separadas por una línea en blanco
+1
+4
+4
+4
+3
+3
+4
+4
+
+6
+5
+3
+0
+6
+3
+3
+
+2
+1
+2
+2
+1
+3
+2
+7
+7
+7

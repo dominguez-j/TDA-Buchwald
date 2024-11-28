@@ -1,0 +1,10 @@
+__pycache__/
+resultados.csv
+*.png
+*_resultado.txt
+TP3/a.py
+Resultados-Backtracking/
+Resultados-Greedy/
+Resultados-Aproximación de JJ/
+Mediciones/
+Tests-Personalizados/
